@@ -1,0 +1,78 @@
+# The Neighbourhood – Sweater Weather
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.51] All I am, is a man
+[00:11.98] I want the world in my hands
+[00:15.47] I hate the beach
+[00:17.70] But I stand in California
+[00:21.01] With my toes in the sand
+[00:33.01] 
+[00:23.20] Use the sleeves of my sweater
+[00:25.62] Let's have an adventure
+[00:27.49] Head in the clouds but my gravity's centered
+[00:31.46] Touch my neck and I'll touch yours
+[00:35.22] You in those little high waisted shorts, oh
+[00:56.72] 
+[00:40.24] She knows what I think about
+[00:42.45] And what I think about
+[00:44.60] One love, two mouths
+[00:46.21] One love, one house
+[00:48.14] No shirt, no blouse
+[00:49.90] Just us, you'll find out
+[00:51.54] Nothing that I wouldn't wanna tell you about, no
+[01:15.54] 
+[00:53.72] 'Cause it's too cold
+[00:58.57] For you here and now
+[01:02.71] So let me hold
+[01:06.23] Both your hands in the holes of my sweater
+[01:27.23] 
+[01:11.82] And if I may just take your breath away
+[01:13.23] I don't mind if it's not much to say
+[01:14.81] Sometimes the silence guides our minds so
+[01:16.94] Move to a place so far away
+[01:30.44] 
+[01:19.18] The goose bumps start to raise
+[01:20.90] The minute that my left hand meets your waist
+[01:22.88] And then I watch your face
+[01:25.08] Put my fingers on your tongue
+[01:25.85] 'Cause you love the taste yeah
+[01:40.85] 
+[01:27.94] These hearts adore
+[01:29.39] Everyone the other beats hardest for
+[01:30.84] Inside this place is warm
+[01:32.71] Outside it starts to pour
+[01:45.21] 
+[01:35.99] Coming down
+[01:36.75] One love, two mouths
+[01:38.32] One love, one house
+[01:40.22] No shirt, no blouse
+[01:42.34] Just us, you find out
+[01:43.98] Nothing that I wouldn't wanna tell you about, no, no, no
+[02:11.98] 
+[01:49.74] 'Cause it's too cold
+[01:53.28] For you here and now
+[01:57.74] So let me hold
+[02:00.64] Both your hands in the holes of my sweater
+[02:21.64] 
+[02:05.29] 'Cause it's too cold
+[02:08.50] For you here and now
+[02:12.15] So let me hold
+[02:16.14] Both your hands in the holes of my sweater
+[02:37.14] 
+[02:25.51] Whoa, whoa...
+[02:32.01] 
+[02:33.84] Whoa, whoa...
+[03:13.16] 'Cause it's too cold
+[03:15.05] For you here and now
+[03:18.25] So let me hold
+[03:21.90] Both your hands in the holes of my sweater
+[03:27.56] It's too cold
+[03:29.40] For you here and now
+[03:32.19] Let me hold
+[03:36.16] Both your hands in the holes of my sweater
+[03:44.18] And it's too cold
+[03:44.67] It's too cold
+[03:45.22] The holes of my sweater...
+```
