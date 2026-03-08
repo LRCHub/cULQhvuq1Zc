@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Sweater Weather",
+  "base_artist": "The Neighbourhood",
+  "createdAt": "2026-03-08T18:10:57.821624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "Skylar Stecker",
+      "has_synced": true,
+      "path": "select/01_Sweater_Weather_Skylar_Stecker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/02_Sweater_Weather_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/03_Sweater_Weather_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweater Weather / I Wanna Be Your Girlfriend",
+      "artist": "untrusted",
+      "has_synced": false,
+      "path": "select/04_Sweater_Weather___I_Wanna_Be_Your_Girlfriend_untrusted.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweater Weather x After Dark",
+      "artist": "Hà Lê feat. Cole Russo",
+      "has_synced": false,
+      "path": "select/05_Sweater_Weather_x_After_Dark_Hà_Lê_feat._Cole_Russo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/06_Sweater_Weather_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "Slaves",
+      "has_synced": true,
+      "path": "select/07_Sweater_Weather_Slaves.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "Pentatonix",
+      "has_synced": false,
+      "path": "select/08_Sweater_Weather_Pentatonix.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "Gaullin feat. Julian Perretta",
+      "has_synced": true,
+      "path": "select/09_Sweater_Weather_Gaullin_feat._Julian_Perretta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SWEATER WEATHER",
+      "artist": "GAULLIN;JULIAN PERRETTA",
+      "has_synced": true,
+      "path": "select/10_SWEATER_WEATHER_GAULLIN;JULIAN_PERRETTA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/11_Sweater_Weather_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "Neighbourhood",
+      "has_synced": true,
+      "path": "select/12_Sweater_Weather_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/13_Sweater_Weather_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweater Weather (radio edit)",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/14_Sweater_Weather_(radio_edit)_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweater Weather (lofi remix)",
+      "artist": "89ine",
+      "has_synced": true,
+      "path": "select/15_Sweater_Weather_(lofi_remix)_89ine.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweater Weather (slowed + reverb)",
+      "artist": "omgkirby",
+      "has_synced": true,
+      "path": "select/16_Sweater_Weather_(slowed_+_reverb)_omgkirby.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweater Weather",
+      "artist": "AEN",
+      "has_synced": false,
+      "path": "select/17_Sweater_Weather_AEN.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Putting a Spin On Sweater Weather",
+      "artist": "Egg",
+      "has_synced": true,
+      "path": "select/18_Putting_a_Spin_On_Sweater_Weather_Egg.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "has_synced": false,
+      "path": "select/pl_01_Sweater_Weather_The_Neighbourhood.txt"
+    }
+  ]
+}
